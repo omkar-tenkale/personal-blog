@@ -4,7 +4,7 @@ title = "Omkar's Blog"
 theme = "hugo-ink"
 paginate = 5
 
-copyright = "© Copyright notice"
+# copyright = "© Copyright notice"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -53,12 +53,17 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/omkar-tenkale"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/omkartenkale"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/omkartenkale"
 
 [taxonomies]
    tag = "tags"
