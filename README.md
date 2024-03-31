@@ -1,3 +1,5 @@
-# personal-blog
+# Personal blog
 
-Visit https://creative-baklava-78c784.netlify.app/
+Thoughts and experiences I make public for various reasons  
+
+https://omkar-tenkale.github.io/personal-blog/
