@@ -3,7 +3,6 @@ title: "About me"
 type: "page"
 ---
 
-Edfewdf
+I am Omkar Tenkale
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Faizan </h1>
-
+I made this blog to share my thoughts and experiences
