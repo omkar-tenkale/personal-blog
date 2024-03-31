@@ -1,4 +1,4 @@
-baseURL = "https://creative-baklava-78c784.netlify.app/"
+baseURL = "baseURL = "https://omkar-tenkale.github.io/personal-blog/"
 languageCode = "en-us"
 title = "Omkar's Blog"
 theme = "hugo-ink"
