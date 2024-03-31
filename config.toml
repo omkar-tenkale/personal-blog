@@ -1,4 +1,3 @@
-baseURL = "https://github.com/omkar-tenkale/personal-blog/raw/main/"
 languageCode = "en-us"
 title = "Omkar's Blog"
 theme = "hugo-ink"
@@ -18,7 +17,7 @@ disqusShortname = "ink-demo"
 	subtitle = "Thoughts and experiences"
 
 	# Optional 64x64 avatar image.
-	avatar = "static/omkar.png"
+	avatar = "omkar.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
