@@ -22,7 +22,7 @@ description: Here is a demo of all shortcodes available in Hugo.
 
 ## Tweet
 
-{{< tweet 877500564405444608 >}}
+## {{< tweet 877500564405444608 >}}
 
 ## Vimeo
 
