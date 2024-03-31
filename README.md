@@ -1,5 +1,5 @@
 # Personal blog
 
-Thoughts and experiences I make public for various reasons  
+Sharing my thoughts and experiences publicly, for a variety of reasons
 
 https://omkar-tenkale.github.io/personal-blog/
