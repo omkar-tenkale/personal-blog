@@ -1,4 +1,4 @@
-baseURL = "https://omkar-tenkale.github.io/personal-blog/"
+baseURL = "https://github.com/omkar-tenkale/personal-blog/raw/main/"
 languageCode = "en-us"
 title = "Omkar's Blog"
 theme = "hugo-ink"
