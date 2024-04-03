@@ -2,7 +2,6 @@ languageCode = "en-us"
 title = "Omkar's Blog"
 theme = "hugo-ink"
 paginate = 5
-canonifyURLs = true 
 
 # copyright = "© Copyright notice"
 
@@ -10,18 +9,12 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
-
 [params]
 	subtitle = "Thoughts and experiences"
 
 	# Optional 64x64 avatar image.
 	avatar = "omkar.png"
 
-	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page"]
-	
 	featherIconsCDN = true
 
 	mode = "auto" # "dark" or "auto"
