@@ -20,12 +20,12 @@ I am not interested in transactional friendships or maintaining those that hinde
 
 I believe in the saying, "You become the average of the five people you spend the most time with." For me, these people are the authors of the books I read. Books have been my mentors, guiding my thoughts and shaping my worldview. Some of the most influential books in my life include:
 
-How to Win Friends and Influence People – Sparked my personality growth
-Autobiography of a Yogi – Set me on a spiritual path
-Bhagavad Gita – Helped me find the purpose of life
-Works by Swami Vivekananda – Motivated me towards a bigger purpose and deepened my understanding of Advaita philosophy
-No More Mr. Nice Guy – Opened my eyes to the reality of being a "mr. nice guy"
-The Game and The Rational Male – Challenged my thoughts about inter-gender relationships
+- How to Win Friends and Influence People – Sparked my personality growth
+- Autobiography of a Yogi – Set me on a spiritual path
+- Bhagavad Gita – Helped me find the purpose of life
+- Works by Swami Vivekananda – Motivated me towards a bigger purpose and deepened my understanding of Advaita philosophy
+- No More Mr. Nice Guy – Opened my eyes to the reality of being a "mr. nice guy"
+- The Game and The Rational Male – Challenged my thoughts about inter-gender relationships
 
 
 In summary, I remain optimistic about friendships because I am the type of person I would like to be friends with. 
