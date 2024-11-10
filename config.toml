@@ -60,3 +60,6 @@ url = "https://instagram.com/omkartenkale"
 
 [taxonomies]
    tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
