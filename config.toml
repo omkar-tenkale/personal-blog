@@ -63,6 +63,11 @@ name = "Youtube"
 icon = "youtube"
 url = "https://www.youtube.com/channel/UCCXe8bKHwqQspPI7qAzTA5w"
 
+[[params.social]]
+name = "X"
+icon = "x"
+url = "https://x.com/omkartenkale"
+
 [taxonomies]
    tag = "tags"
 
