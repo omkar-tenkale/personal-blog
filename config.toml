@@ -44,6 +44,11 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
+name = "X"
+icon = "twitter"
+url = "https://x.com/omkartenkale"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/omkar-tenkale"
@@ -62,11 +67,6 @@ url = "https://instagram.com/omkartenkale"
 name = "Youtube"
 icon = "youtube"
 url = "https://www.youtube.com/channel/UCCXe8bKHwqQspPI7qAzTA5w"
-
-[[params.social]]
-name = "X"
-icon = "twitter"
-url = "https://x.com/omkartenkale"
 
 [taxonomies]
    tag = "tags"
