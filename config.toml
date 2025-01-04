@@ -58,6 +58,11 @@ name = "Instagram"
 icon = "instagram"
 url = "https://instagram.com/omkartenkale"
 
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://www.youtube.com/channel/UCCXe8bKHwqQspPI7qAzTA5w"
+
 [taxonomies]
    tag = "tags"
 
