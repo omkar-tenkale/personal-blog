@@ -65,7 +65,7 @@ url = "https://www.youtube.com/channel/UCCXe8bKHwqQspPI7qAzTA5w"
 
 [[params.social]]
 name = "X"
-icon = "x"
+icon = "twitter"
 url = "https://x.com/omkartenkale"
 
 [taxonomies]
