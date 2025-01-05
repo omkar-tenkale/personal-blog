@@ -45,7 +45,7 @@ weight = 4
 
 [[params.social]]
 name = "Resume"
-icon = "filt-text"
+icon = "file-text"
 url = "https://drive.google.com/file/d/1ov0IreMlfzWN4bvXHpDRj533g8uukt0i/view"
 
 [[params.social]]
