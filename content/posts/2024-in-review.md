@@ -107,6 +107,10 @@ Still, Bangalore was great. Before leaving for Hyderabad, I met and bid farewell
 
 Overall: 3/5 (Somewhat Satisfied)
 
+![Anand Christmas House Party](/2024/IMG-20241221-WA0000~01.jpg)
+![Church Street Chronicle](/2024/IMG20240824191041.webp)
+![Jagriti Yatra Bunkers](/2024/JY bunkers 20241212_191445.jpg)
+
 
 ### 7. **Books**
 
