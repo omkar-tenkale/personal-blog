@@ -37,6 +37,10 @@ But hey, the goal was to learn to cook, not to cook daily!
 
 Overall: 4/5 (Satisfied)
 
+![Dal rice with Ghee, Yumm](/2024/IMG20240101175038.webp)
+![I Miss Cooking](/2024/IMG20240517193908.webp)
+![Learning to make chapati wasnt that hard](/2024/IMG20240517195928.webp)
+
 
 ### 2. **NoFap**
 
@@ -65,9 +69,6 @@ Overall: 4/5 (Satisfied)
 ![Shiva Meditating Poster](/2024/IMG20240205234050.webp)
 ![Vipassana Retreat](/2024/IMG20240531063220.webp)
 ![Meditating on Matanga Hill](/2024/IMG-20241228-WA0008.jpg)
-
-
----
 
 ### 4. **Gym**
 
@@ -116,6 +117,9 @@ Overall: 3/5 (Somewhat Satisfied)
 ![Church Street Chronicle](/2024/IMG20240824191041.webp)
 ![Jagriti Yatra Bunkers](/2024/JY bunkers 20241212_191445.jpg)
 ![Numerous Board Game Visits](/2024/IMG20240128152622.webp)
+![Homemade Board Games with Mana and Sharu](/2024/IMG20240817183857.webp)
+![Jagriti Yatra Day 0](/2024/IMG20241116133347.webp)
+![Jagriti Yatra My Group](/2024/IMG20241124180135.webp)
 
 ### 7. **Books**
 
@@ -134,6 +138,18 @@ Overall: 5/5 (Very Satisfied)
 - Failed at establishing a skincare routine, discontinued it, and made peace with acne causing whey protein. Muscles over acne.
 - Restarted my Instagram, accepted 4 followers, and posted some content.
 - Built the Nodal framework and learned a lot about scalable app architecture.
+
+![With her :)](/2024/-6334745989444909946_121.jpg)
+![Notes from her](/2024/IMG20240204132955~01.webp)
+![Home](/2024/IMG20240205232752.webp)
+![Coding](/2024/IMG20240429195303.webp)
+![Gojek](/2024/IMG20240814134741.webp)
+![Deliveroo](/2024/IMG20241209175837.webp)
+![Happy Smile](/2024/IMG20240520164646.webp)
+![Audiostory App Code 1](/2024/IMG20240830022634.webp)
+![Audiostory App Code 2](/2024/IMG20240830022658.webp)
+![Cute little Android](/2024/IMG20241007134251.webp)
+![On a hampi rock near the octagon bath](/2024/IMG20241226113311.webp)
 
 
 ## 2025 Goals
