@@ -3,6 +3,8 @@ title = "Omkar's Blog"
 theme = "hugo-ink"
 paginate = 5
 
+baseURL = "https://omkartenkale.is-a.dev/"
+
 # copyright = "© Copyright notice"
 
 pygmentsstyle = "vs"
