@@ -62,6 +62,11 @@ I still don’t have a clear roadmap for meditation going forward, but it’s so
 
 Overall: 4/5 (Satisfied)
 
+![Shiva Meditating Poster](/2024/IMG20240205234050.webp)
+![Vipassana Retreat](/2024/IMG20240531063220.webp)
+![Meditating on Matanga Hill](/2024/IMG-20241228-WA0008.jpg)
+
+
 ---
 
 ### 4. **Gym**
