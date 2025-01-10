@@ -115,7 +115,7 @@ Overall: 3/5 (Somewhat Satisfied)
 
 ![Anand Christmas House Party](/2024/IMG-20241221-WA0000~01.jpg)
 ![Church Street Chronicle](/2024/IMG20240824191041.webp)
-![Jagriti Yatra Bunkers](/2024/JY bunkers 20241212_191445.jpg)
+![Jagriti Yatra Bunkers](/2024/JY-bunkers-20241212_191445.jpg)
 ![Numerous Board Game Visits](/2024/IMG20240128152622.webp)
 ![Homemade Board Games with Mana and Sharu](/2024/IMG20240817183857.webp)
 ![Jagriti Yatra Day 0](/2024/IMG20241116133347.webp)
