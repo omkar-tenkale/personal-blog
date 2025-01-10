@@ -79,6 +79,10 @@ Gym is here to stay.
 Overall: 5/5 (Very Satisfied)
 
 ![Gym 1](/2024/IMG20241103195158.webp)
+![Gym 1](/2024/IMG20241004092525.webp)
+![Gym 1](/2024/IMG20240814080631.webp)
+![Gym 1](/2024/IMG20240606091020.webp)
+![Gym 1](/2024/IMG20240422065838.webp)
 
 ### 5. **8 AM Wake-Up**
 
