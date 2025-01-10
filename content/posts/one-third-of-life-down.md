@@ -124,4 +124,4 @@ To my 18-year-old self, I’d say, tough start, buddy. Things weren't fair, but 
 
 And to my future self at 30, I want to say, I hope I’ll make choices that'll make you proud.
 
-![Bonfire of Dreams - Berserk](https://omkar-tenkale.github.io/personal-blog/bonfire-of-dreams-berserk.webp)
+![Bonfire of Dreams - Berserk](/bonfire-of-dreams-berserk.webp)
