@@ -3,8 +3,10 @@ title: "About me"
 type: "page"
 ---
 
-Hi,I'm Omkar. Welcome to my personal blog.
+Hey, I'm Omkar, and this is where I share my thoughts. You’ll find my socials above, or feel free to explore the posts.
 
-The posts here are select entries from my journal—just the tip of the iceberg of what usually goes on in my mind. They're published with an intention of, well, I don't know.
+It’s mostly reflections on things that catch my attention, so if you enjoy thoughtful analysis, you might find it interesting.
 
-Feel free to explore!
+These posts reflect what’s usually going on in my mind and what I feel is worth sharing from my journal, although I do question that sometimes.
+
+Anyways, thanks for stopping by!
