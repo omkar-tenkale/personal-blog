@@ -1,6 +1,6 @@
 ---
 title: "I'm a fucking hypocrite"
-date: 2024-02-27T03:27:00+05:30
+date: 2025-02-27T03:27:00+05:30
 tags: [Reflections]
 ---  
 
