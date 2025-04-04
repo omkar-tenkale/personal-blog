@@ -1,5 +1,5 @@
 # Personal blog
 
-Sharing my thoughts and experiences publicly, for a variety of reasons
+Hey, I’m Omkar, and this is where I share my thoughts!
 
 https://omkar-tenkale.github.io/personal-blog/
