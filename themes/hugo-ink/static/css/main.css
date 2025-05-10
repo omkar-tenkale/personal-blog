@@ -484,3 +484,7 @@ ul {
         line-height: 1.4em;
     }
 }
+
+code[data-lang=text] {
+    text-wrap: wrap;
+}
