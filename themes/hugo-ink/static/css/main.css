@@ -485,6 +485,23 @@ ul {
     }
 }
 
-code[data-lang=text] {
-    text-wrap: wrap;
+/* General fix for triple backticks */
+pre, code {
+    white-space: pre-wrap;   /* Preserve formatting, but allow wrapping */
+    word-wrap: break-word;   /* Break long words */
+    overflow-wrap: break-word; /* Modern approach for word breaking */
+}
+
+/* Chroma (Hugo default syntax highlighter) */
+pre.chroma {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* highlight.js (if you're using this) */
+pre.hljs, code.hljs {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
