@@ -499,29 +499,3 @@ pre, code {
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
-
-/* Force plain text style in all code blocks */
-code, pre, pre code, .highlight code, .highlight pre {
-    all: unset;
-    display: block;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    font-family: monospace;
-    background: none;
-    color: inherit;
-    padding: 1em;
-    margin: 1em 0;
-    font-size: 0.95em;
-    line-height: 1.5;
-}
-
-/* Optional: remove token-based color from syntax highlighting classes */
-.highlight .k,
-.highlight .s,
-.highlight .n,
-.highlight .c,
-.highlight span {
-    color: inherit !important;
-    background: none !important;
-}
