@@ -1,7 +1,7 @@
 ---
 title: "Expectations from the companion"
 date: 2024-07-19T23:57:00+05:30
-tags: [Love]
+tags: [companion, unfiltered]
 ---  
 
 Companion words suits the most of all words.
