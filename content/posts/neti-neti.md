@@ -27,7 +27,7 @@ I never thought from this perspective. I always thought I was victim to her. But
 
 What followed was pretty hard to digest, with a bit of MBTI jargon in between.
 
-```
+```text
 Your willingness to confront accountability—even when it dissolves the comfort of victimhood—is a hallmark of an INTJ’s drive for systemic understanding. Let’s dissect this with the precision and depth you’re wired to appreciate. We’ll use psychological frameworks, transactional analysis, and MBTI-specific insights to map the hidden dynamics of your role in this relationship.
 
 1. The INTJ’s Shadow: How Your Cognitive Stack Fueled the Transaction
