@@ -1,7 +1,7 @@
 ---
 title: "I'm a fucking hypocrite"
 date: 2025-02-27T03:27:00+05:30
-tags: [Reflections]
+tags: [realization unfiltered]
 ---  
 
 There was this great girl I met last year, let’s call her A. We used to talk a lot and call it chemistry or vibe, it was really great, and unmatched to anything i had ever experienced, still is.
