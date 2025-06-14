@@ -1,7 +1,7 @@
 ---
 title: "Meditation ain't working!"
 date: 2024-07-29T11:59:00+05:30
-tags: [Lifegoals]
+tags: [lifegoals]
 ---  
 
 So, this year's goal was to learn and practice meditation daily. I've always been curious about it, but I could never quite get it right. I've read articles, listened to audiobooks, and scrolled through countless subreddits, but without a clear goal or understanding, sitting idle often felt pointless, even with a natural inclination for it.
