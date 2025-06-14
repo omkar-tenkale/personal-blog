@@ -1,7 +1,7 @@
 ---
 title: "One third of life down"
 date: 2024-11-03T4:47:00+05:30
-tags: [Reflections]
+tags: [journey]
 ---  
 
 I turned 25 last month. One-third of life is over, two thirds still lie ahead, hopefully.
