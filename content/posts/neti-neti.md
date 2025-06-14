@@ -1,7 +1,7 @@
 ---
 title: "Neti Neti"
 date: 2025-06-04T22:55:00+05:30
-tags: [Love]
+tags: [companion, strangers, analysis]
 ---  
 
 I’ve been really busy these past few months, preparing for Meta’s London onsite opportunity. Got the rejection a few days ago, but I’m over it now. The upside is, DSA doesn’t intimidate me anymore, after a career of avoiding and hating it.  
