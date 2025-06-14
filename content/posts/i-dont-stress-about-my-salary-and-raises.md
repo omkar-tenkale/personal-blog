@@ -1,7 +1,7 @@
 ---
 title: "I don't stress about my salary or raises"
 date: 2024-04-20T9:09:00+05:30
-tags: [Career]
+tags: [career, unfiltered]
 ---  
 
 Sitting in the park after doing the morning yoga session. I felt a need to jot down my thoughts percieved in the recent appraisal season. And I wrote this grapewine post.
@@ -62,7 +62,7 @@ I have accepted the fact that I will never be satisfied with money, but it's not
  Never settle, mediocrity is a killer, I've fallen for it before but never again.
 ```
 
-And this was my favourite comment because someone also had commented "big downvote from me because your post is distasteful" which really made me think. He later deleted after someone commented "its not distasteful he's just putting his opinion" this made me feel better. Otherwise i had started doubting myself and writing the post. But what response i was really expecting. If i see myself different from the work culture i should expect people not to have the same mentality too.
+And this was my favourite comment because someone also had commented "big downvote from me because your post is distasteful" which really made me think. He later deleted after someone commented "its not distasteful he's just putting his opinion" this made me feel better. Otherwise i had started doubting myself about writing the post. But what response i was really expecting. If i see myself different from the work culture i should expect people not to have the same mentality too.
 
 ```
 I understand your perspective. 
