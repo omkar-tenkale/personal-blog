@@ -118,8 +118,6 @@ The thing is, I want to fall for character, to the point where looks don’t eve
 
 But when your pool of options is limited, the only noticeable difference between them ends up being physical appearance. So even if looks aren’t that important to me deep down, they end up taking center stage by default.
 
-I usually connect with people slowly, just spending time and letting things build. But right now, I don’t really have that kind of setup in my life. I’m not very social, my circle’s small, and I rarely go out. You can’t exactly shop for connection, and dating apps have never worked for me.
-
 I usually connect with someone by spending time with them, letting things build slowly. But currently, I don’t really have that kind of setup in my life. I’m not very social, my circle’s tiny, and I rarely go out. You can’t exactly shop for human connection, and dating apps don't work for me.
 So I end up wanting something deeper, but with no real way to get there, it becomes paralyzing and leaves me feeling helpless and stuck.
 
