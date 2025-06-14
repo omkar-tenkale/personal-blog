@@ -1,7 +1,7 @@
 ---
 title: "Worst day ever?"
 date: 2024-11-10T14:54:30+05:30
-tags: [Journal,Friends,Love]
+tags: [love, unfiltered]
 ---  
 ---
 
