@@ -1,7 +1,7 @@
 ---
 title: "Why I'm starting to write blogs"
 date: 2024-03-31T9:42:00+05:30
-tags: [Novelty]
+tags: [lifegoals]
 ---
 
 For a long time, I've hesitated to start a blog. Writing in my diary has been my go-to for pinning down my deepest reflections on life and philosophy. Sharing them publicly never crossed my mind; it just didn't seem necessary.
