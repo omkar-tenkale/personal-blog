@@ -1,7 +1,7 @@
 ---
 title: "Scared to love again"
 date: 2024-08-23T23:58:00+05:30
-tags: [Love]
+tags: [companion, love]
 ---  
 
 Sometimes, I wonder if I do any good by loving people.
