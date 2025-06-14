@@ -1,7 +1,7 @@
 ---
 title: "In solitude I trust"
 date: 2024-07-13T21:00:00+05:30
-tags: [Friends, Interpersonal relationships]
+tags: [preferences, friends]
 ---  
 
 I recently discovered that I am an INTJ, a personality type known for being curious, independent, and strategic. This perfectly aligns with my natural inclination toward solitude, which has been both a blessing and a curse.
