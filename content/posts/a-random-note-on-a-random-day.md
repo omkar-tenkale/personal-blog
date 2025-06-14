@@ -1,7 +1,7 @@
 ---
 title: "A random note on a random day"
 date: 2025-03-29T00:48:00+05:30
-tags: [Musings]
+tags: [musings, unfiltered]
 ---  
 
 Got a bunch of draft thoughts that still need structure before they turn into a proper post, but I don’t have time for that right now.
