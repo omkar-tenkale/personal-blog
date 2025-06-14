@@ -1,7 +1,7 @@
 ---
 title: "Reflections on Fifty Shades Of Grey"
 date: 2024-08-24T23:27:00+05:30
-tags: [Books]
+tags: [books, unfiltered, analysis]
 ---  
 
 
