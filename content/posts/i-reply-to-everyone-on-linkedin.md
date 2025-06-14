@@ -1,7 +1,7 @@
 ---
 title: "I reply to everyone on LinkedIn"
 date: 2025-04-04T13:18:00+05:30
-tags: [People]
+tags: [career, strangers]
 ---  
 
 Turned this late night scribble into a [LinkedIn post](https://www.linkedin.com/posts/omkartenkale_i-reply-to-everyone-on-linkedin-even-if-activity-7313742136607133696-KpcV).
