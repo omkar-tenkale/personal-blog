@@ -11,6 +11,9 @@ Hey, I'm Omkar
 - 🐦 [X (Twitter)](https://x.com/omkartenkale)
 - 📸 [Instagram](https://instagram.com/omkartenkale)
 - ▶️ [YouTube](https://www.youtube.com/channel/UCCXe8bKHwqQspPI7qAzTA5w)
+- 🎬 
+[Letterboxd](https://boxd.it/hUwUB)
+
 
 ---
 
