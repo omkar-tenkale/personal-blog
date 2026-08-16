@@ -1,7 +1,7 @@
 ---
 title: "Estonia one month observations"
 date: 2026-08-16T23:20:58+03:00
-tags: [musings, unfiltered]
+tags: [musings]
 ---  
 
 Hmm. I kind of abandoned posting here, didn't I. 
